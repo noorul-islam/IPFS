@@ -162,15 +162,15 @@
       return (
         <div>
           <Head>
-            <title>LW3Punks</title>
+            <title>IPFS based NFT Minting by Noorul Islam</title>
             <meta name="description" content="LW3Punks-Dapp" />
             <link rel="icon" href="/favicon.ico" />
           </Head>
           <div className={styles.main}>
             <div>
-              <h1 className={styles.title}>Welcome to LW3Punks!</h1>
+              <h1 className={styles.title}>Welcome to IPFS based NFT Minting!</h1>
               <div className={styles.description}>
-                Its an NFT collection for LearnWeb3 students.
+                Its an NFT collection example for IPFS based NFT Minting.
               </div>
               <div className={styles.description}>
                 {tokenIdsMinted}/10 have been minted
